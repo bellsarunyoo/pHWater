@@ -1,0 +1,9 @@
+.table-wrapper{
+  overflow-y: scroll;
+  height: 650px;
+}
+
+.table-wrapper th{
+    position: sticky;
+    top: 0;
+}
